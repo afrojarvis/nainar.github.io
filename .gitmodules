@@ -1,0 +1,3 @@
+[submodule "dinosaur_demos"]
+	path = dinosaur_demos
+	url = git@github.com:nainar/dinosaur_demos.git
